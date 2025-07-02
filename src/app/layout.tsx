@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "글순희",
-  description: "글순희",
+  title: "유준경",
+  description: "유준경",
 };
 
 export default function RootLㅋㅈayout({

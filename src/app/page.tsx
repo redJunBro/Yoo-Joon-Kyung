@@ -275,12 +275,15 @@ export default function Home() {
       >
         <div className="absolute inset-0 w-full h-full flex flex-col items-center justify-center pb-2">
           <h2 className="text-lg font-semibold font-kyobo">
-            Crafted by 글순희
+            Crafted by 유준경
           </h2>
         </div>
         <div className="absolute inset-0 w-full h-full flex flex-col items-center justify-end pb-2">
           <div className="text-lg font-semibold pb-1 font-ylee">
-            글을 가지고 노는 게 즐거운 남자사람
+            향을 입혀가며
+          </div>
+          <div className="text-lg font-semibold pb-1 font-ylee">
+            좋은 차를 우려내는 찻잎이 되길
           </div>
         </div>
 
